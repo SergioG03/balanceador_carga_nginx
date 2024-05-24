@@ -4,7 +4,7 @@
 
 3.	Crearemos en local una carpeta en la cual guardaremos los archivos html, que usaremos para realizar la prueba del balanceo de carga.
 
-4.      Una vez hayamos creado los .html ahora el siguiente paso será levantarlos con Docker).
+4.  Una vez hayamos creado los .html ahora el siguiente paso será levantarlos con Docker
 
 Los comandos que utilizaremos serán los siguientes (IMP: CAMBIAR RUTA, ya que yo uso la ruta de mi equipo local)
 
